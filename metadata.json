@@ -1,0 +1,6 @@
+{
+  "name": "經典俄羅斯方塊 (Tetris Master)",
+  "description": "精美流暢的經典俄羅斯方塊遊戲，具備標準 SRS 旋轉踢牆、7-Bag 隨機袋、暫存方塊、硬降/軟降、復古音樂音效與多種挑戰模式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
